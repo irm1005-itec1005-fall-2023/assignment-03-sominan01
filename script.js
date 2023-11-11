@@ -120,7 +120,8 @@ function clearCompletedTasks() {
     todoItems.splice (i,1)
   }
 }
-  // Implement the logic to clear completed tasks here
+
+// Implement the logic to clear completed tasks here
 
   
 
